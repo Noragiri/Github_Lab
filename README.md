@@ -1,1 +1,1 @@
-# Github_Lab
+Initial project documentation
